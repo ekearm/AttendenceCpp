@@ -1,0 +1,12 @@
+﻿  Student.cpp
+  AtendencRapper.cpp
+c:\users\pc\documents\visual studio 2015\projects\atendancetracker\atendancetracker\atendencrapper.cpp(11): warning C4018: '<': signed/unsigned mismatch
+c:\users\pc\documents\visual studio 2015\projects\atendancetracker\atendancetracker\atendencrapper.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\pc\documents\visual studio 2015\projects\atendancetracker\atendancetracker\atendencrapper.cpp(116): error C3867: 'Student::getName': non-standard syntax; use '&' to create a pointer to member
+c:\users\pc\documents\visual studio 2015\projects\atendancetracker\atendancetracker\atendencrapper.cpp(116): error C3867: 'Student::getCredits': non-standard syntax; use '&' to create a pointer to member
+c:\users\pc\documents\visual studio 2015\projects\atendancetracker\atendancetracker\atendencrapper.cpp(116): error C3867: 'Student::getMajor': non-standard syntax; use '&' to create a pointer to member
+c:\users\pc\documents\visual studio 2015\projects\atendancetracker\atendancetracker\atendencrapper.cpp(116): error C3867: 'Student::getGrade': non-standard syntax; use '&' to create a pointer to member
+  Generating Code...
+  Compiling...
+  main.cpp
+  Generating Code...
